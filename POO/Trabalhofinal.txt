@@ -1,0 +1,11 @@
+Escolher um tema para o trabalho, desenhar as telas dos sistema e fazer um diagrama de casos de uso. Fazer um diagrama de classes referente as telas e casos de uso projetados. Escolher 2 ou 3 telas para serem implementadas, implementar e testar.
+
+O trabalho final pode ser feito em dupla ou individual.
+
+Entregar trabalho final: 
+
+1- Slides de Apresentação do trabalho ou um vídeo explicando: (a) Título e Autores; (b) Assunto; (c) Casos de Uso; (d) Telas; (e) Diagrama de Classe; (f) programa funcionando
+
+2- Documento com diagramas de Casos de Uso, Diagramas de Classe,  Protótipo de telas e foto das Telas Implementadas. Incluir também os links se tiver feito em ferramentas online
+
+3- Cópia do Código fonte final ou link para o  GitHub para quem fizer em dupla. 
